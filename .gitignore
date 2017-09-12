@@ -5,7 +5,7 @@
 .idea/compiler.xml
 .idea/libraries/*
 .idea/*
-
+.idea/*
 suyash-pimple-gurav.iml
 
 # Sensitive or high-churn files:
